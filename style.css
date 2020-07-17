@@ -55,7 +55,7 @@ html,body{
 	display:inline-block;
 	height:100%;
 	width:100%;
-	background-image:linear-gradient(rgba(63,62,122,.25), rgba(63,62,122,.25));
+	background-image:linear-gradient(rgba(32,32,32,.25), rgba(32,32,32,.25));
 	background-size:cover;
 	background-position:center;
 	background-repeat:no-repeat;
