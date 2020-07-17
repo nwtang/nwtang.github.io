@@ -23,7 +23,7 @@ html,body{
 }
 
 .bar-item a {
-	font-family: 'Roboto', "Helvetica";
+	font-family: Helvetica;
 	display: block;
 	color: white;
 	text-align: center;
@@ -81,7 +81,7 @@ html,body{
 	opacity:0.65;
 }
 .title {
-	font-family: 'Raleway', "sans-serif";
+	font-family: Helvetica;
 /*	font-size:7em;
 */	
 	font-size:8vw;
@@ -96,7 +96,7 @@ html,body{
 }
 
 .subtitle{
-	font-family: 'Raleway', "sans-serif";
+	font-family: Helvetica;
 	text-align:center;
 	color:white;
 	font-weight:300;
@@ -217,7 +217,7 @@ html,body{
 }
 
 .about-title{
-	font-family: 'Raleway', "sans-serif";
+	font-family: 'Roboto', "Helvetica";
 /*	font-size:5em;
 */	
 	font-size:6vw;
@@ -227,7 +227,7 @@ html,body{
 	margin:60px auto 20px auto;
 }
 .paragraph{
-	font-family:'Raleway', "sans-serif";
+	font-family:'Roboto', "Helvetica";
 	text-align:center;
 	color:white;
 /*	font-size:1.3em;
@@ -247,7 +247,7 @@ html,body{
 .header{
 	margin: 50px 0 0 0;
 	color:white;
-	font-family:'Raleway', "sans-serif";
+	font-family:'Roboto', "Helvetica";
 	text-align: center;
 }
 
