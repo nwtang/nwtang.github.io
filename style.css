@@ -40,6 +40,18 @@ html,body{
 	float:left;
 }
 
+#about {
+	color:#00B2A9;
+}
+
+#projects {
+	color:#EF426F;
+}
+
+#resume {
+	color:#FF8200;
+}
+
 /*home page*/
 
 .main-page{
@@ -55,7 +67,8 @@ html,body{
 	display:inline-block;
 	height:100%;
 	width:100%;
-	background-image:linear-gradient(rgba(32,32,32,.25), rgba(32,32,32,.25));
+	/* background-image:linear-gradient(rgba(32,32,32,.25), rgba(32,32,32,.25)); */
+	background:#202020;
 	background-size:cover;
 	background-position:center;
 	background-repeat:no-repeat;
