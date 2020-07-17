@@ -15,7 +15,7 @@ html,body{
 	-moz-transition: 0.2s;
 	-ms-transition: 0.2s;
 	color: white;
-	background: #202020;
+	background: #101010;
 	z-index: 100;
 }
 
@@ -42,14 +42,17 @@ html,body{
 
 #about-link {
 	color:#00B2A9;
+	background: #00B2A9;
 }
 
 #projects-link {
 	color:#EF426F;
+	background: #EF426F;
 }
 
 #resume-link {
 	color:#FF8200;
+	background: #FF8200;
 }
 
 /*home page*/
@@ -68,7 +71,7 @@ html,body{
 	height:100%;
 	width:100%;
 	/* background-image:linear-gradient(rgba(32,32,32,.25), rgba(32,32,32,.25)); */
-	background:#303030;
+	background:#202020;
 	background-size:cover;
 	background-position:center;
 	background-repeat:no-repeat;
