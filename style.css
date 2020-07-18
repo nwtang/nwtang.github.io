@@ -99,9 +99,9 @@ html,body{
 }
 
 .titles {
-	position: absolute;
+	display: none;
 }
-
+/* 
 .titles:nth-child(1) {
 	animation-name: fade;
 	animation-fill-mode: both;
@@ -125,7 +125,7 @@ html,body{
 	100% {
 		opacity: 1;
 	}
-}
+} */
 
 .subtitle{
 	text-align:center;
