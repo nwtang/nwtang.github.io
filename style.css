@@ -86,7 +86,8 @@ html,body{
 	opacity:0.65;
 }
 
-.title {
+.titles {
+	display: none;
 	font-size:8vw;
 	font-weight:300;
 	text-align: center;
@@ -95,10 +96,6 @@ html,body{
 	top:35%;
 	left:50%;
 	transform: translate(-50%, -50%);
-}
-
-.titles {
-	display: none;
 }
 
 .subtitle{
