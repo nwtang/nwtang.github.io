@@ -72,7 +72,6 @@ html,body{
 	display:inline-block;
 	height:100%;
 	width:100%;
-	/* background-image:linear-gradient(rgba(32,32,32,.25), rgba(32,32,32,.25)); */
 	background:#202020;
 	background-size:cover;
 	background-position:center;
@@ -195,7 +194,7 @@ html,body{
 .big-container{
 	height:100%;
 	width:100%;
-	background-image:linear-gradient(rgba(63,62,122,.25), rgba(63,62,122,.25));
+	background:#202020;
 	background-size:cover;
 	position:fixed;
 	z-index: 0;
