@@ -1,6 +1,6 @@
 (function() {
-
-    var titles = $(".titles");
+    jQuery.noConflict()
+    var titles = jQuery(".titles");
     var titleIndex = -1;
     
     function showNextQuote() {
