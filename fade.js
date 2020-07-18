@@ -7,7 +7,9 @@
         ++titleIndex;
         titles.eq(titleIndex % titles.length)
             .fadeIn(2000)
-            .delay(2000)
+            .delay(5000)
+            .fadeIn(2000)
+            .delay(5000)
             .fadeOut(2000, showNextQuote);
     }
     
