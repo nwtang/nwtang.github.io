@@ -91,7 +91,7 @@ html,body{
 
 .titles {
 	display: none;
-	font-size:160px;
+	font-size:10vw;
 	font-weight:500;
 	text-align: center;
 	position:fixed;
@@ -145,7 +145,7 @@ html,body{
 	opacity:0.6;
 }
 
-@media (min-width: 801px) {
+@media (min-width: 761px) {
 	.nav-link {
 		display:block;
 	}
@@ -154,12 +154,12 @@ html,body{
 	}
 }
 
-@media (max-width: 800px) {
+@media (max-width: 760px) {
 	.nav-link {
 		display:none;
 	}
 	.bar-item .fa {
 		display:block;
-		width:100px;
+		width:50px;
 	}
 }
