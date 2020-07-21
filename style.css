@@ -145,7 +145,7 @@ html,body{
 	opacity:0.6;
 }
 
-@media (min-width: 761px) {
+@media (min-width: 751px) {
 	.nav-link {
 		display:block;
 	}
@@ -154,12 +154,13 @@ html,body{
 	}
 }
 
-@media (max-width: 760px) {
+@media (max-width: 750px) {
 	.nav-link {
 		display:none;
 	}
 	.bar-item .fa {
 		display:block;
-		width:50px;
+		width:40px;
+		height:25px;
 	}
 }
