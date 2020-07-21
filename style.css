@@ -145,6 +145,15 @@ html,body{
 	opacity:0.6;
 }
 
+@media (min-width: 601px) {
+	.nav-link {
+		display:block;
+	}
+	.bar-item fa {
+		display:none;
+	}
+}
+
 @media (max-width: 600px) {
 	.nav-link {
 		display:none;
