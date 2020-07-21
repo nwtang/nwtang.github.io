@@ -149,7 +149,7 @@ html,body{
 	.nav-link {
 		display:block;
 	}
-	.bar-item fa {
+	.bar-item .fa {
 		display:none;
 	}
 }
@@ -158,7 +158,7 @@ html,body{
 	.nav-link {
 		display:none;
 	}
-	.bar-item fa {
+	.bar-item .fa {
 		display:block;
 		width:100px;
 	}
